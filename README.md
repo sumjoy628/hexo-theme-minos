@@ -1,3 +1,4 @@
+王建东催得紧到处都没查点查点
 <p align="center">
 <img height="40" src="http://blog.zhangruipeng.me/hexo-theme-minos/images/logo.png">
 <br> A simple and retro styled Hexo theme, concentrating more on your ideas.
